@@ -113,6 +113,6 @@ Configure the Uncomplicated Firewall (UFW) to only allow incoming connections fo
 
 
 ## Configure the local timezone to UTC
-1. You can your local time zone by running `sudo dpkg-reconfigure tzdata` command
+1. You can change your local time zone by running `sudo dpkg-reconfigure tzdata` command
 
 (Note that UTC is under the 'None of the above' category)
