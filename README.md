@@ -218,4 +218,6 @@ application.secret_key = 'super_secret_key'
 
 [Changing postres primary key sequence](http://www.jakobbeyer.de/change-postres-primary-key-sequence)
 
-[Udacity Discussion Forum post: List of items in the directory instead of displaying site](List of items in the directory instead of displaying site)
+[Udacity Discussion Forum post: Apache can’t find file in main directory](https://discussions.udacity.com/t/apache-cant-find-file-in-main-directory/24498/7)
+
+[Udacity Discussion Forum post: List of items in the directory instead of displaying site](https://discussions.udacity.com/t/list-of-items-in-the-directory-instead-of-displaying-site/35423)
