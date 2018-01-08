@@ -125,7 +125,7 @@ Configure the Uncomplicated Firewall (UFW) to only allow incoming connections fo
 
 ### Install additional packages
 1. Install `pip` by executing the folling command `sudo apt-get install python-pip`
-2. Then install additional packages required for this project.
+1. Then install additional packages required for this project.
 ```
 pip install httplib2
 pip install requests
@@ -159,7 +159,7 @@ sudo apt-get install libpq-dev
 </VirtualHost>
 ```
 
-1. Now enable Virtual Host by running `sudo a2ensite catalogApp`
+2. Now enable Virtual Host by running `sudo a2ensite catalogApp`
 
 (Note: Don't forget to reload apapche2 service)
 
