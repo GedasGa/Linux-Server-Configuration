@@ -205,7 +205,7 @@ application.secret_key = 'super_secret_key'
 
 (Note: Usually `git` is already pre-installed in Amazon Lightsail Ubuntu instance)
 
-#References
+# References
 [How To Deploy a Flask Application on Ubuntu VPS Tutorial](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
 
 [Pipenv & Virtual Enviroments Turorial](http://docs.python-guide.org/en/latest/dev/virtualenvs)
