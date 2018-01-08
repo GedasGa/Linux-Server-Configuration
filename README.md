@@ -5,9 +5,9 @@
 This is a a guide on how to set up a Amazon Lightsail instance with Ubuntu Linux Server and to host a simple web application built with Flask framework and PostgreSQL database.
 
 # My Server IP and other details
-Public IP: 35.157.41.25
-User name: ubuntu, grader
-SSH port: 2200
+-Public IP: 35.157.41.25
+-User name: ubuntu, grader
+-SSH port: 2200
 
 Hosted webpage URL: http://35.157.41.25/
 
@@ -134,7 +134,7 @@ pip install flask
 pip install psycopg2
 sudo apt-get install libpq-dev
 ```
-###Virtual Host and `/etc/apache2/sites-available/catalogApp.conf` config file
+### Virtual Host and `/etc/apache2/sites-available/catalogApp.conf` config file
 1. Create a new `catalogApp.conf` file in `/etc/apache2/sites-available/` directory
 ```
 <VirtualHost *:80>
@@ -163,7 +163,7 @@ sudo apt-get install libpq-dev
 
 (Note: Don't forget to reload apapche2 service)
 
-###`/var/www/catalogApp/catalogApp.wsgi` file
+### `/var/www/catalogApp/catalogApp.wsgi` file
 1. Create a new `catalogApp.wsgi` file in `/var/www/catalogApp/` directory.
 ```
 activate_this = '/var/www/catalogApp/catalogApp/venv/bin/activate_this.py'
