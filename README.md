@@ -5,9 +5,9 @@
 This is a a guide on how to set up a Amazon Lightsail instance with Ubuntu Linux Server and to host a simple web application built with Flask framework and PostgreSQL database.
 
 # My Server IP and other details
--Public IP: 35.157.41.25
--User name: ubuntu, grader
--SSH port: 2200
+- Public IP: 35.157.41.25
+- User name: ubuntu, grader
+- SSH port: 2200
 
 Hosted webpage URL: http://35.157.41.25/
 
